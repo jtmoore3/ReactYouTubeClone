@@ -1,20 +1,30 @@
 {
   "files": {
     "main.css": "/ReactYouTubeClone/static/css/main.a476860c.chunk.css",
-    "main.js": "/ReactYouTubeClone/static/js/main.1f7efbfa.chunk.js",
-    "main.js.map": "/ReactYouTubeClone/static/js/main.1f7efbfa.chunk.js.map",
+    "main.js": "/ReactYouTubeClone/static/js/main.49f2bf45.chunk.js",
+    "main.js.map": "/ReactYouTubeClone/static/js/main.49f2bf45.chunk.js.map",
     "runtime-main.js": "/ReactYouTubeClone/static/js/runtime-main.b12c1850.js",
     "runtime-main.js.map": "/ReactYouTubeClone/static/js/runtime-main.b12c1850.js.map",
     "static/js/2.981fae87.chunk.js": "/ReactYouTubeClone/static/js/2.981fae87.chunk.js",
     "static/js/2.981fae87.chunk.js.map": "/ReactYouTubeClone/static/js/2.981fae87.chunk.js.map",
     "index.html": "/ReactYouTubeClone/index.html",
     "static/css/main.a476860c.chunk.css.map": "/ReactYouTubeClone/static/css/main.a476860c.chunk.css.map",
-    "static/js/2.981fae87.chunk.js.LICENSE.txt": "/ReactYouTubeClone/static/js/2.981fae87.chunk.js.LICENSE.txt"
+    "static/js/2.981fae87.chunk.js.LICENSE.txt": "/ReactYouTubeClone/static/js/2.981fae87.chunk.js.LICENSE.txt",
+    "static/media/avatar2.ef1dacf4.jpg": "/ReactYouTubeClone/static/media/avatar2.ef1dacf4.jpg",
+    "static/media/avatar3.c8a5a953.jpg": "/ReactYouTubeClone/static/media/avatar3.c8a5a953.jpg",
+    "static/media/thumbnail1.c37f6cdc.jpg": "/ReactYouTubeClone/static/media/thumbnail1.c37f6cdc.jpg",
+    "static/media/thumbnail2.fc017ba4.jpg": "/ReactYouTubeClone/static/media/thumbnail2.fc017ba4.jpg",
+    "static/media/thumbnail3.112197e8.jpg": "/ReactYouTubeClone/static/media/thumbnail3.112197e8.jpg",
+    "static/media/thumbnail4.c1b09a7f.jpg": "/ReactYouTubeClone/static/media/thumbnail4.c1b09a7f.jpg",
+    "static/media/thumbnail5.ac100823.jpg": "/ReactYouTubeClone/static/media/thumbnail5.ac100823.jpg",
+    "static/media/thumbnail6.57e0c2e4.jpg": "/ReactYouTubeClone/static/media/thumbnail6.57e0c2e4.jpg",
+    "static/media/thumbnail7.abc0bf3c.jpg": "/ReactYouTubeClone/static/media/thumbnail7.abc0bf3c.jpg",
+    "static/media/thumbnail8.72cd16b5.jpg": "/ReactYouTubeClone/static/media/thumbnail8.72cd16b5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b12c1850.js",
     "static/js/2.981fae87.chunk.js",
     "static/css/main.a476860c.chunk.css",
-    "static/js/main.1f7efbfa.chunk.js"
+    "static/js/main.49f2bf45.chunk.js"
   ]
 }
