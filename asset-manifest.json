@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactYouTubeClone/static/css/main.a617e044.chunk.css",
+    "main.js": "/ReactYouTubeClone/static/js/main.4a591fab.chunk.js",
+    "main.js.map": "/ReactYouTubeClone/static/js/main.4a591fab.chunk.js.map",
+    "runtime-main.js": "/ReactYouTubeClone/static/js/runtime-main.b04b915f.js",
+    "runtime-main.js.map": "/ReactYouTubeClone/static/js/runtime-main.b04b915f.js.map",
+    "static/js/2.0fc22791.chunk.js": "/ReactYouTubeClone/static/js/2.0fc22791.chunk.js",
+    "static/js/2.0fc22791.chunk.js.map": "/ReactYouTubeClone/static/js/2.0fc22791.chunk.js.map",
+    "static/js/3.a387e8b8.chunk.js": "/ReactYouTubeClone/static/js/3.a387e8b8.chunk.js",
+    "static/js/3.a387e8b8.chunk.js.map": "/ReactYouTubeClone/static/js/3.a387e8b8.chunk.js.map",
+    "index.html": "/ReactYouTubeClone/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/ReactYouTubeClone/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0fc22791.chunk.js.LICENSE.txt": "/ReactYouTubeClone/static/js/2.0fc22791.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ReactYouTubeClone/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b04b915f.js",
+    "static/js/2.0fc22791.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4a591fab.chunk.js"
+  ]
+}
